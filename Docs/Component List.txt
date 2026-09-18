@@ -1,0 +1,38 @@
+LibBot - COMPONENTS LIST
+
+
+MICROCONTROLLER:
+- 1x Arduino Uno
+
+MOTORS & DRIVERS:
+- 2x DC Motors (3-6V, ~100 RPM)
+- 1x L298N Motor Driver Module
+- 2x Wheels 
+- 1x Caster wheel 
+
+SENSORS:
+- 1x 5 Array IR Sensors (line detection)
+- 1x HC-SR04 Ultrasonic Sensor
+- 1x MFRC522 RFID Reader Module
+- 5x RFID Cards/Tags
+
+ACTUATORS:
+- 4x SG90 Servo Motors (for arm)
+
+POWER:
+- 1x External 5V/2A Power Supply
+- 1x 9V Battery (optional, for Arduino)
+- 1x Buck Converter
+- Jumper wires, breadboard, USB cable
+
+CHASSIS:
+- Robot chassis 
+- Servo mounting brackets
+- Arm structure (3D printed)
+- Gripper mechanism
+
+MISC:
+- Buzzer 
+- Switch
+- Hot glue gun for assembly
+- Cable ties/zip ties
